@@ -1,7 +1,6 @@
 @charset "UTF-8";
 
 
-
 @media screen and (min-width: 768px) and (max-width: 992px) {
 
     body{
@@ -20,6 +19,9 @@
     section#login > div#formulario{
         float: right;
         width: 70%;
+    }
+    div#formulario > h1{
+        font-size: 1.3em;
     }
     div#formulario > p{
         font-size: 1em;
